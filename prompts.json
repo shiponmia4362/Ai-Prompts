@@ -1,13 +1,6 @@
 {
   "prompts": [
     {
-      "id": "1",
-      "title": "ব্লগ পোস্ট লেখার প্রম্পট",
-      "category": "লেখালেখি",
-      "content": "তুমি একজন অভিজ্ঞ কনটেন্ট রাইটার। \"[বিষয়]\" নিয়ে একটি বিস্তারিত ব্লগ পোস্ট লেখো।",
-      "date": 1705315800000
-    },
-    {
       "id": "birds_realistic_colorful_walking",
       "title": "Walking Position Realistic colorful Birds Prompt",
       "category": "Birds",
@@ -174,6 +167,6 @@
   "lockedCategories": {
     "লেখালেখি": "h_yagr_4"
   },
-  "lastUpdate": "2026-09-29T19:17:00.202Z",
+  "lastUpdate": "2026-09-29T19:17:06.578Z",
   "version": 3
 }
