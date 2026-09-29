@@ -162,12 +162,13 @@
     "ডিজাইন",
     "শিক্ষা",
     "ব্যবসা",
-    "Birds"
+    "Birds",
+    "Animals"
   ],
   "lockedCategories": {
     "লেখালেখি": "h_yagr_4",
     "Birds": "h_yagr_4"
   },
-  "lastUpdate": "2026-09-29T19:22:26.026Z",
+  "lastUpdate": "2026-09-29T19:34:21.986Z",
   "version": 3
 }
