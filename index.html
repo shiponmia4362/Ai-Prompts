@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Prompt Hub - আমাদের প্রম্পট লাইব্রেরি</title>
+<title>Tream Prompt Hub - আমাদের প্রম্পট লাইব্রেরি</title>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Hind Siliguri', sans-serif; }
 
@@ -55,14 +55,28 @@
     letter-spacing: -0.5px; cursor: pointer;
   }
 
-  .logo-icon {
-    width: 42px; height: 42px; border-radius: 12px;
-    background: var(--gradient);
-    display: flex; align-items: center; justify-content: center;
-    font-size: 22px;
-    box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
-    animation: pulse 3s ease-in-out infinite;
-  }
+ .logo-icon {
+  width: 42px; height: 42px; border-radius: 12px;
+  background: var(--gradient);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 22px;
+  box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4);
+  animation: pulse 3s ease-in-out infinite;
+}
+
+/* প্রোফাইল ইমেজ স্টাইল */
+.logo-image {
+  object-fit: cover;
+  padding: 0;
+  border: 2px solid transparent;
+  background: linear-gradient(var(--bg-card), var(--bg-card)) padding-box,
+              var(--gradient) border-box;
+  transition: transform 0.3s ease;
+}
+
+.logo-image:hover {
+  transform: scale(1.08) rotate(3deg);
+}
 
   @keyframes pulse {
     0%, 100% { box-shadow: 0 4px 20px rgba(99, 102, 241, 0.4); }
@@ -757,10 +771,10 @@
 
 <header>
   <div class="header-inner">
-    <div class="logo" onclick="resetAll()">
-      <div class="logo-icon">✨</div>
-      <div class="logo-text">AI Prompt Hub</div>
-    </div>
+  <div class="logo" onclick="resetAll()">
+    <img src="profile.jpg" alt="Profile" class="logo-icon logo-image">
+    <div class="logo-text">AI Prompt Hub</div>
+  </div>
 
     <div class="search-box">
       <span class="search-icon">🔍</span>
