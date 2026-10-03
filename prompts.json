@@ -4878,6 +4878,13 @@
       "category": "Men Beard",
       "content": "Create one unique contemporary men's beard, combining sophisticated full coverage, subtly tapered chin, refined mustache and precision barber edges, creating a premium commercially appealing beard design. Rugged Natural Variation: Slightly irregular natural hair growth, rugged masculine texture while maintaining professional grooming. Common Requirements: Create exactly one isolated men's beard and mustache design only, based on the supplied reference image. No face, head, skin, cheeks, chin skin, eyes, nose, mouth, lips, ears, neck, body, clothing, mannequin or human portrait. Transparent background. Front-facing centered composition. Natural realistic individual hair strands, authentic hair growth pattern, clean professionally groomed edges, highly detailed beard texture, realistic hair density, crisp contours, symmetrical presentation, premium commercial stock asset quality, ultra-high resolution, no text, no watermark, no logo, no shadow, no background elements. Important Negative Prompt: full face, human head, skin, facial skin, forehead, cheeks, eyes, eyebrows, nose, mouth, lips, teeth, ears, neck, body, clothing, mannequin, person, portrait, background, text, letters, typography, watermark, logo, brand, shadow, reflection, glow, gradient, duplicate beard, multiple beards, overlapping designs, cropped beard, incomplete beard, deformed beard, distorted hair, unrealistic hair growth, blurry hair, pixelated, low resolution, jagged edges, artifacts, noise, cartoon, anime, illustration, plastic hair, artificial skin, floating skin, facial features.",
       "date": 1705315800499
+    },
+    {
+      "id": "1790999812906ey72g",
+      "title": "Title & Keywords Generator",
+      "category": "Title & Keywords Creator",
+      "content": "”   You’re Prompt Paste Here………...         ”\n\nBased on the prompt above, please write a professional title and 50 keywords for the colorful, silhouette, black and white vector file for Adobe Stock all in one.",
+      "date": 1790999812906
     }
   ],
   "categories": [
@@ -4895,6 +4902,6 @@
     "Women Clothes": "h_yagr_4",
     "Men Beard": "h_yagr_4"
   },
-  "lastUpdate": "2026-10-03T03:55:37.835Z",
+  "lastUpdate": "2026-10-03T03:56:52.977Z",
   "version": 3
 }
