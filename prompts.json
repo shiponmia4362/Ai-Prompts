@@ -1384,7 +1384,8 @@
     "Birds",
     "Animals",
     "Women Clothes",
-    "Male Suits"
+    "Male Suits",
+    "Men Beard"
   ],
   "lockedCategories": {
     "Birds": "h_yagr_4",
@@ -1392,6 +1393,6 @@
     "Male Suits": "h_yagr_4",
     "Women Clothes": "h_yagr_4"
   },
-  "lastUpdate": "2026-10-02T15:02:25.461Z",
+  "lastUpdate": "2026-10-03T00:07:02.066Z",
   "version": 3
 }
