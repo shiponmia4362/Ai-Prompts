@@ -4887,22 +4887,63 @@
       "date": 1790999812906
     }
   ],
-  "categories": [
-    "Birds",
-    "Animals",
-    "Women Clothes",
-    "Male Suits",
-    "Men Beard",
-    "Title & Keywords Creator"
+  "categoryTree": [
+    {
+      "name": "Birds",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    },
+    {
+      "name": "Women Clothes",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    },
+    {
+      "name": "Male Suits",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    },
+    {
+      "name": "Men Beard",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    },
+    {
+      "name": "Title & Keywords Creator",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    }
   ],
   "lockedCategories": {
     "Birds": "h_yagr_4",
     "Animals": "h_yagr_4",
     "Male Suits": "h_yagr_4",
     "Title & Keywords Creator": "h_yagr_4",
-    "Men Beard": "h_yagr_4",
-    "Women Clothes": "h_yagr_4"
+    "Men Beard": "h_yagr_4"
   },
-  "lastUpdate": "2026-10-05T01:12:04.880Z",
-  "version": 3
+  "lastUpdate": "2026-10-09T08:42:32.840Z",
+  "version": 4
 }
