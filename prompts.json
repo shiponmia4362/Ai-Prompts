@@ -201,12 +201,20 @@
           "name": "Title & Keywords Prompts"
         }
       ]
+    },
+    {
+      "name": "Animals",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
     }
   ],
   "lockedCategories": {
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:18:20.953Z",
+  "lastUpdate": "2026-10-10T03:27:50.322Z",
   "version": 5
 }
