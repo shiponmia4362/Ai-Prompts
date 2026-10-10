@@ -3703,9 +3703,10 @@
     {
       "id": "beard_100_e",
       "title": "100-E — Ultimate Modern Beard (Rugged Natural)",
-      "category": "Men Beard",
+      "category": "",
       "content": "Create one unique contemporary men's beard, combining sophisticated full coverage, subtly tapered chin, refined mustache and precision barber edges, creating a premium commercially appealing beard design. Rugged Natural Variation: Slightly irregular natural hair growth, rugged masculine texture while maintaining professional grooming. Common Requirements: Create exactly one isolated men's beard and mustache design only, based on the supplied reference image. No face, head, skin, cheeks, chin skin, eyes, nose, mouth, lips, ears, neck, body, clothing, mannequin or human portrait. Transparent background. Front-facing centered composition. Natural realistic individual hair strands, authentic hair growth pattern, clean professionally groomed edges, highly detailed beard texture, realistic hair density, crisp contours, symmetrical presentation, premium commercial stock asset quality, ultra-high resolution, no text, no watermark, no logo, no shadow, no background elements. Important Negative Prompt: full face, human head, skin, facial skin, forehead, cheeks, eyes, eyebrows, nose, mouth, lips, teeth, ears, neck, body, clothing, mannequin, person, portrait, background, text, letters, typography, watermark, logo, brand, shadow, reflection, glow, gradient, duplicate beard, multiple beards, overlapping designs, cropped beard, incomplete beard, deformed beard, distorted hair, unrealistic hair growth, blurry hair, pixelated, low resolution, jagged edges, artifacts, noise, cartoon, anime, illustration, plastic hair, artificial skin, floating skin, facial features.",
-      "date": 1705315800499
+      "date": 1791617404641,
+      "subcategory": "সাধারণ"
     }
   ],
   "categoryTree": [
@@ -3754,6 +3755,6 @@
     "Animals": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T07:28:14.138Z",
+  "lastUpdate": "2026-10-10T07:30:04.643Z",
   "version": 6
 }
