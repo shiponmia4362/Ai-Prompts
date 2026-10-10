@@ -210,6 +210,9 @@
         },
         {
           "name": "Realistic Silhouette Animals"
+        },
+        {
+          "name": "Black & White Animals"
         }
       ]
     }
@@ -218,6 +221,6 @@
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:29:03.370Z",
+  "lastUpdate": "2026-10-10T03:29:31.737Z",
   "version": 5
 }
