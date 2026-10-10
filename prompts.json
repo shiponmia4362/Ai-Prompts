@@ -198,6 +198,14 @@
       "subcategory": "Realistic Silhouette Animals",
       "content": "Create a premium realistic silhouette monochrome vector icon of a [Animal's Name] is walking, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the bird will be incomplete; every single part will be perfectly and realistically flawless.",
       "date": 1791603074688
+    },
+    {
+      "id": "1791603191313z4hdc",
+      "title": "Realistic Black & White Animals Prompt",
+      "category": "Animals",
+      "subcategory": "Black & White Animals",
+      "content": "Create a image about a [Animal's Name] is walking silhouette, black vector icon, elegant animal in mid-flight with wings fully extended, long neck and long legs clearly defined, simple bold shape, clean cutout, smooth contours, crisp edges, high contrast, isolated flat element, Remove background, must will be PNG Format, no shadow, no text, no gradient, no texture, minimal geometric design, professional stock illustration style, centered composition, sharp vector-like appearance, commercially usable icon design, No part of the bird will be incomplete; every single part will be perfectly and realistically flawless.\nNegative Prompt:\nphotorealistic, detailed feathers, color, gray, background, trees, water, landscape, shadow, glow, gradient, text, watermark, frame, 3D, blur, noise, complex details",
+      "date": 1791603191313
     }
   ],
   "categoryTree": [
@@ -237,6 +245,6 @@
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:31:46.497Z",
+  "lastUpdate": "2026-10-10T03:33:11.314Z",
   "version": 5
 }
