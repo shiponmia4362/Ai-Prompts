@@ -204,13 +204,17 @@
     },
     {
       "name": "Animals",
-      "subs": []
+      "subs": [
+        {
+          "name": "Realistic Colorful Animals"
+        }
+      ]
     }
   ],
   "lockedCategories": {
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:28:04.410Z",
+  "lastUpdate": "2026-10-10T03:28:33.922Z",
   "version": 5
 }
