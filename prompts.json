@@ -204,17 +204,13 @@
     },
     {
       "name": "Animals",
-      "subs": [
-        {
-          "name": "সাধারণ"
-        }
-      ]
+      "subs": []
     }
   ],
   "lockedCategories": {
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:27:50.322Z",
+  "lastUpdate": "2026-10-10T03:28:04.410Z",
   "version": 5
 }
