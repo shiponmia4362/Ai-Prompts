@@ -1,13 +1,6 @@
 {
   "prompts": [
     {
-      "id": "1790999812906ey72g",
-      "title": "Title & Keywords Generator",
-      "category": "Title & Keywords Creator",
-      "content": "”   You’re Prompt Paste Here………...         ”\n\nBased on the prompt above, please write a professional title and 50 keywords for the colorful, silhouette, black and white vector file for Adobe Stock all in one.",
-      "date": 1790999812906
-    },
-    {
       "id": "cb_demo_1_m1abc2",
       "title": "Walking Position — Realistic Colorful Birds",
       "category": "Birds",
@@ -185,14 +178,6 @@
   ],
   "categoryTree": [
     {
-      "name": "Title & Keywords Creator",
-      "subs": [
-        {
-          "name": "সাধারণ"
-        }
-      ]
-    },
-    {
       "name": "Birds",
       "subs": [
         {
@@ -207,10 +192,8 @@
       ]
     }
   ],
-  "lockedCategories": {
-    "Title & Keywords Creator": "h_yagr_4"
-  },
+  "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T01:54:54.178Z",
+  "lastUpdate": "2026-10-10T01:55:34.539Z",
   "version": 5
 }
