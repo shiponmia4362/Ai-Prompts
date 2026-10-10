@@ -207,6 +207,9 @@
       "subs": [
         {
           "name": "Realistic Colorful Animals"
+        },
+        {
+          "name": "Realistic Silhouette Animals"
         }
       ]
     }
@@ -215,6 +218,6 @@
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:28:33.922Z",
+  "lastUpdate": "2026-10-10T03:29:03.370Z",
   "version": 5
 }
