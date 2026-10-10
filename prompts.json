@@ -242,9 +242,10 @@
     }
   ],
   "lockedCategories": {
-    "Animals": "h_yagr_4"
+    "Animals": "h_yagr_4",
+    "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T07:04:00.412Z",
+  "lastUpdate": "2026-10-10T07:04:14.484Z",
   "version": 6
 }
