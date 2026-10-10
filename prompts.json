@@ -182,6 +182,14 @@
       "subcategory": "Title & Keywords Prompts",
       "content": "Write a professional Title and Keywords for Adobe Stock Using this bird and requirements:\nIt’s will be Vector Pack using this bird-\nBirds Name: “[Bird’s Name]”\nBirds Position: Walking, Flying, Standing, Finding it food and catching prey, feeding its chick, standing on a Twig, The male and female birds are standing and loving on a Twig\nType: Realistic Colorful, Black Vector, silhouette",
       "date": 1791597474992
+    },
+    {
+      "id": "1791603019616j067m",
+      "title": "Realistic colorful ANIMALS Prompt",
+      "category": "Animals",
+      "subcategory": "Realistic Colorful Animals",
+      "content": "Create a premium realistic colorful monochrome vector icon of a Asiatic Lion walking, In fact, the animal will possess its true, natural color; there will be no flaws in the coloration. Rather, the animal's color will be perfectly preserved and authentic, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the animal will be incomplete; every single part will be perfectly and realistically flawless. Special attention drawn to: Background must will be removing and PNG Format.",
+      "date": 1791603019616
     }
   ],
   "categoryTree": [
@@ -221,6 +229,6 @@
     "Birds": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T03:29:31.737Z",
+  "lastUpdate": "2026-10-10T03:30:19.617Z",
   "version": 5
 }
