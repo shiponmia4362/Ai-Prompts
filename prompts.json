@@ -1,48 +1,6 @@
 {
   "prompts": [
     {
-      "id": "animals_realistic_colorful_asiatic_lion_walking",
-      "title": "Realistic colorful Asiatic Lion Walking Prompt",
-      "category": "Animals",
-      "content": "Create a premium realistic colorful monochrome vector icon of a Asiatic Lion walking, In fact, the animal will possess its true, natural color; there will be no flaws in the coloration. Rather, the animal's color will be perfectly preserved and authentic, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the animal will be incomplete; every single part will be perfectly and realistically flawless. Special attention drawn to: Background must will be removing and PNG Format.",
-      "date": 1705315800000
-    },
-    {
-      "id": "animals_realistic_silhouette_bengal_tiger_walking",
-      "title": "Realistic silhouette Bengal Tiger Walking Prompt",
-      "category": "Animals",
-      "content": "Create a premium realistic silhouette monochrome vector icon of a Bengal Tiger walking, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the bird will be incomplete; every single part will be perfectly and realistically flawless.",
-      "date": 1705315800000
-    },
-    {
-      "id": "animals_black_vector_bengal_tiger_walking",
-      "title": "Realistic silhouette Black Vector Bengal Tiger Walking Prompt",
-      "category": "Animals",
-      "content": "Create a image about a Bengal Tiger is walking silhouette, black vector icon, elegant animal in mid-flight with wings fully extended, long neck and long legs clearly defined, simple bold shape, clean cutout, smooth contours, crisp edges, high contrast, isolated flat element, Remove background, must will be PNG Format, no shadow, no text, no gradient, no texture, minimal geometric design, professional stock illustration style, centered composition, sharp vector-like appearance, commercially usable icon design, No part of the bird will be incomplete; every single part will be perfectly and realistically flawless. Negative Prompt: photorealistic, detailed feathers, color, gray, background, trees, water, landscape, shadow, glow, gradient, text, watermark, frame, 3D, blur, noise, complex details",
-      "date": 1705315800000
-    },
-    {
-      "id": "animals_realistic_colorful_bengal_tiger_walking",
-      "title": "Walking Realistic colorful Bengal Tiger Prompt",
-      "category": "Animals",
-      "content": "Create a premium realistic colorful monochrome vector icon of a Bengal Tiger walking, In fact, the animal will possess its true, natural color; there will be no flaws in the coloration. Rather, the animal's color will be perfectly preserved and authentic, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the animal will be incomplete; every single part will be perfectly and realistically flawless.",
-      "date": 1705315800000
-    },
-    {
-      "id": "animals_realistic_colorful_bengal_tiger_running_jumping_hunting",
-      "title": "High Speed Running and Long Jumping for its Hunting Realistic colorful Bengal Tiger Prompt",
-      "category": "Animals",
-      "content": "Create a premium realistic colorful monochrome vector icon of a Bengal Tiger High Speed Running and long jumping for its hunting, In fact, the animal will possess its true, natural color; there will be no flaws in the coloration. Rather, the animal's color will be perfectly preserved and authentic, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the animal will be incomplete; every single part will be perfectly and realistically flawless.",
-      "date": 1705315800000
-    },
-    {
-      "id": "animals_realistic_colorful_bengal_tiger_running_jumping_roaring_hunting",
-      "title": "High Running Long Jumping and Roaring for its Hunting Realistic colorful Bengal Tiger Prompt",
-      "category": "Animals",
-      "content": "Create a premium realistic colorful monochrome vector icon of a Bengal Tiger High running, long jumping and roaring for its hunting, In fact, the animal will possess its true, natural color; there will be no flaws in the coloration. Rather, the animal's color will be perfectly preserved and authentic, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the animal will be incomplete; every single part will be perfectly and realistically flawless.",
-      "date": 1705315800000
-    },
-    {
       "id": "women_clothes_emerald_velvet_suit",
       "title": "Emerald Velvet Suit",
       "category": "Women Clothes",
@@ -4735,14 +4693,6 @@
   ],
   "categoryTree": [
     {
-      "name": "Animals",
-      "subs": [
-        {
-          "name": "সাধারণ"
-        }
-      ]
-    },
-    {
       "name": "Women Clothes",
       "subs": [
         {
@@ -4776,12 +4726,11 @@
     }
   ],
   "lockedCategories": {
-    "Animals": "h_yagr_4",
     "Title & Keywords Creator": "h_yagr_4",
     "Men Beard": "h_yagr_4",
     "Women Clothes": "h_yagr_4"
   },
   "lockedSubcategories": {},
-  "lastUpdate": "2026-10-10T01:25:40.915Z",
+  "lastUpdate": "2026-10-10T01:26:08.960Z",
   "version": 5
 }
