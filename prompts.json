@@ -3500,6 +3500,14 @@
       "subcategory": "সাধারণ",
       "content": "Create a professional, SEO-friendly title and 50 keywords for Adobe Stock, based on a specific bird. The details and requirements are as follows:\nThis will be created as a \"Vector Pack.\"\nBird Name: ‘Wood Thrush’\nPoses: Walking, flying, standing, foraging/hunting, feeding chicks, perching on a branch; also, a scene featuring a male and female bird perched side-by-side on a branch, displaying affection toward each other.\nStyles: Realistic colorful, black and white, and silhouette vectors.\nNote: Since this prompt will be used for various bird species, please ensure that a unique title and a distinct set of 50 SEO-friendly keywords are provided for each individual bird.",
       "date": 1794664424428
+    },
+    {
+      "id": "1794664495259jxur9",
+      "title": "7. The male and female birds are standing and loving on a Twig/ Realistic silhouette Black Vector Birds Prompt:",
+      "category": "Birds",
+      "subcategory": "সাধারণ",
+      "content": "Create a image about a ‘Wood Thrush’ is the male and female birds are standing and loving on a Twig silhouette, Full Body is black vector icon, Be careful—no part of the bird’s body should be transparent. The bird’s entire body should be pure black (#000000), with no white or gray markings; the eye must remain clearly visible, full body clearly defined, simple bold shape, clean cutout, smooth contours, crisp edges, high contrast, isolated flat element, Remove background, must will be PNG Format, PNG Dimensions and Resolution must be 2500px×2500px, no shadow, no text, no gradient, no texture, minimal geometric design, professional stock illustration style, centered composition, sharp vector-like appearance, commercially usable icon design, No part of the bird will be incomplete; every single part will be perfectly and realistically flawless. \nSpecial attention drawn to: Background must will be removing and FULL BODY IS BLACK.\nNegative Prompt:\nphotorealistic, detailed feathers, color, gray, background, trees, water, landscape, shadow, glow, gradient, text, watermark, frame, 3D, blur, noise, complex details",
+      "date": 1794664495259
     }
   ],
   "categoryTree": [
@@ -3510,6 +3518,6 @@
   ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:53:44.428Z",
+  "lastUpdate": "2026-11-14T13:54:55.260Z",
   "version": 6
 }
