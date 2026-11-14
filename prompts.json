@@ -3492,6 +3492,14 @@
       "category": "Men Beard",
       "content": "Create one unique contemporary men's beard, combining sophisticated full coverage, subtly tapered chin, refined mustache and precision barber edges, creating a premium commercially appealing beard design. Luxury Fashion Variation: High-end editorial grooming, sophisticated sculpted shape, premium detailed hair texture. Common Requirements: Create exactly one isolated men's beard and mustache design only, based on the supplied reference image. No face, head, skin, cheeks, chin skin, eyes, nose, mouth, lips, ears, neck, body, clothing, mannequin or human portrait. Transparent background. Front-facing centered composition. Natural realistic individual hair strands, authentic hair growth pattern, clean professionally groomed edges, highly detailed beard texture, realistic hair density, crisp contours, symmetrical presentation, premium commercial stock asset quality, ultra-high resolution, no text, no watermark, no logo, no shadow, no background elements. Important Negative Prompt: full face, human head, skin, facial skin, forehead, cheeks, eyes, eyebrows, nose, mouth, lips, teeth, ears, neck, body, clothing, mannequin, person, portrait, background, text, letters, typography, watermark, logo, brand, shadow, reflection, glow, gradient, duplicate beard, multiple beards, overlapping designs, cropped beard, incomplete beard, deformed beard, distorted hair, unrealistic hair growth, blurry hair, pixelated, low resolution, jagged edges, artifacts, noise, cartoon, anime, illustration, plastic hair, artificial skin, floating skin, facial features.",
       "date": 1705315800498
+    },
+    {
+      "id": "17946640138048py8m",
+      "title": "1. Walking Position/Realistic colorful Birds Prompt:",
+      "category": "Birds",
+      "subcategory": "সাধারণ",
+      "content": "Create a premium, realistic, and colorful vector icon of a ‘Wood Thrush’ in a walking pose. The bird should be depicted in its authentic, natural colors—ensuring complete accuracy and realism. The design must be flawless, featuring fluid movement, exquisite line art, and bold black outlines. The background must be entirely removed. The final file should be in PNG format, with dimensions and resolution of 2500 pixels × 2500 pixels. This high-resolution icon should be crafted in a premium SVG logo style. Every part of the bird must be fully rendered, with each feature depicted in a precise and realistic manner.\nImportant Note: The background must be removed.",
+      "date": 1794664013804
     }
   ],
   "categoryTree": [
@@ -3502,6 +3510,6 @@
   ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:43:20.544Z",
+  "lastUpdate": "2026-11-14T13:46:53.805Z",
   "version": 6
 }
