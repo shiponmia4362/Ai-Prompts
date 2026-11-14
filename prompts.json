@@ -3496,20 +3496,6 @@
   ],
   "categoryTree": [
     {
-      "name": "লেখালেখি",
-      "subs": [
-        {
-          "name": "ব্লগ পোস্ট"
-        },
-        {
-          "name": "কপিরাইটিং"
-        },
-        {
-          "name": "ইমেইল"
-        }
-      ]
-    },
-    {
       "name": "প্রোগ্রামিং",
       "subs": [
         {
@@ -3537,6 +3523,6 @@
   ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:39:51.280Z",
+  "lastUpdate": "2026-11-14T13:40:32.345Z",
   "version": 6
 }
