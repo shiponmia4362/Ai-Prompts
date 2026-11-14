@@ -3604,6 +3604,14 @@
       "subcategory": "সাধারণ",
       "content": "Create a premium, realistic, monochrome vector icon of a ‘Wood Thrush’ in the flying pose. The design should feature elegant line art with bold black outlines. The bird’s entire body must be rendered in black and white, with no transparent areas. The background must be completely removed. The final file must be in PNG format, with dimensions and resolution of 2500 pixels × 2500 pixels. This should be a high-resolution icon, crafted in the style of a premium SVG logo. No part of the bird should be left incomplete; every detail must be rendered perfectly and realistically.\nNote: The background must be removed.",
       "date": 1794665211428
+    },
+    {
+      "id": "179466525630756mnf",
+      "title": "1. Walking Position/ Realistic silhouette Birds Prompt:",
+      "category": "Birds",
+      "subcategory": "সাধারণ",
+      "content": "Create a premium, realistic, monochrome vector icon of a ‘Wood Thrush’ in a walking pose. The design should feature elegant line art with bold black outlines. The bird’s entire body must be rendered in black and white, with no transparent areas. The background must be completely removed. The final file must be in PNG format, with ;5dimensions and resolution of 2500 pixels × 2500 pixels. This should be a high-resolution icon, crafted in the style of a premium SVG logo. No part of the bird should be left incomplete; every detail must be rendered perfectly and realistically.\nNote: The background must be removed.",
+      "date": 1794665256307
     }
   ],
   "categoryTree": [
@@ -3614,6 +3622,6 @@
   ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T14:06:51.429Z",
+  "lastUpdate": "2026-11-14T14:07:36.308Z",
   "version": 6
 }
