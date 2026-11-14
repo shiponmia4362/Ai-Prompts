@@ -3494,9 +3494,18 @@
       "date": 1705315800498
     }
   ],
-  "categoryTree": [],
+  "categoryTree": [
+    {
+      "name": "Birds",
+      "subs": [
+        {
+          "name": "সাধারণ"
+        }
+      ]
+    }
+  ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:42:22.072Z",
+  "lastUpdate": "2026-11-14T13:42:55.343Z",
   "version": 6
 }
