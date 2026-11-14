@@ -3496,16 +3496,16 @@
   ],
   "categoryTree": [
     {
-      "name": "মার্কেটিং",
+      "name": "লেখালেখি",
       "subs": [
         {
-          "name": "সোশ্যাল মিডিয়া"
+          "name": "ব্লগ পোস্ট"
         },
         {
-          "name": "SEO"
+          "name": "কপিরাইটিং"
         },
         {
-          "name": "বিজ্ঞাপন"
+          "name": "ইমেইল"
         }
       ]
     },
@@ -3537,6 +3537,6 @@
   ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:38:51.320Z",
+  "lastUpdate": "2026-11-14T13:39:51.280Z",
   "version": 6
 }
