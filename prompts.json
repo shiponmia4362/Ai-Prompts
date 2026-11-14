@@ -3494,9 +3494,49 @@
       "date": 1705315800498
     }
   ],
-  "categoryTree": [],
+  "categoryTree": [
+    {
+      "name": "মার্কেটিং",
+      "subs": [
+        {
+          "name": "সোশ্যাল মিডিয়া"
+        },
+        {
+          "name": "SEO"
+        },
+        {
+          "name": "বিজ্ঞাপন"
+        }
+      ]
+    },
+    {
+      "name": "প্রোগ্রামিং",
+      "subs": [
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "name": "ডিজাইন",
+      "subs": [
+        {
+          "name": "UI/UX"
+        },
+        {
+          "name": "লোগো"
+        }
+      ]
+    }
+  ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:36:36.135Z",
+  "lastUpdate": "2026-11-14T13:38:51.320Z",
   "version": 6
 }
