@@ -3494,21 +3494,9 @@
       "date": 1705315800498
     }
   ],
-  "categoryTree": [
-    {
-      "name": "ডিজাইন",
-      "subs": [
-        {
-          "name": "UI/UX"
-        },
-        {
-          "name": "লোগো"
-        }
-      ]
-    }
-  ],
+  "categoryTree": [],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:41:45.385Z",
+  "lastUpdate": "2026-11-14T13:42:22.072Z",
   "version": 6
 }
