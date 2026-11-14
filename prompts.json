@@ -1,30 +1,6 @@
 {
   "prompts": [
     {
-      "id": "1791603019616j067m",
-      "title": "Realistic colorful ANIMALS Prompt",
-      "category": "Animals",
-      "subcategory": "Realistic Colorful Animals",
-      "content": "Create a premium realistic colorful monochrome vector icon of a [Animal's Name] is walking, In fact, the animal will possess its true, natural color; there will be no flaws in the coloration. Rather, the animal's color will be perfectly preserved and authentic, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the animal will be incomplete; every single part will be perfectly and realistically flawless. Special attention drawn to: Background must will be removing and PNG Format.",
-      "date": 1791603106496
-    },
-    {
-      "id": "1791603074688r2zbq",
-      "title": "Realistic silhouette ANIMALS Prompt",
-      "category": "Animals",
-      "subcategory": "Realistic Silhouette Animals",
-      "content": "Create a premium realistic silhouette monochrome vector icon of a [Animal's Name] is walking, realistic motion, elegant line art, thick black outlines, Remove background, must will be PNG Format, high resolution icon, premium SVG logo style. No part of the bird will be incomplete; every single part will be perfectly and realistically flawless.",
-      "date": 1791603074688
-    },
-    {
-      "id": "1791603191313z4hdc",
-      "title": "Realistic Black & White Animals Prompt",
-      "category": "Animals",
-      "subcategory": "Black & White Animals",
-      "content": "Create a image about a [Animal's Name] is walking silhouette, black vector icon, elegant animal in mid-flight with wings fully extended, long neck and long legs clearly defined, simple bold shape, clean cutout, smooth contours, crisp edges, high contrast, isolated flat element, Remove background, must will be PNG Format, no shadow, no text, no gradient, no texture, minimal geometric design, professional stock illustration style, centered composition, sharp vector-like appearance, commercially usable icon design, No part of the bird will be incomplete; every single part will be perfectly and realistically flawless.\nNegative Prompt:\nphotorealistic, detailed feathers, color, gray, background, trees, water, landscape, shadow, glow, gradient, text, watermark, frame, 3D, blur, noise, complex details",
-      "date": 1791603191313
-    },
-    {
       "id": "beard_001_a",
       "title": "001-A — Classic Full Beard (Natural)",
       "category": "Men Beard",
@@ -3520,20 +3496,6 @@
   ],
   "categoryTree": [
     {
-      "name": "Animals",
-      "subs": [
-        {
-          "name": "Realistic Colorful Animals"
-        },
-        {
-          "name": "Realistic Silhouette Animals"
-        },
-        {
-          "name": "Black & White Animals"
-        }
-      ]
-    },
-    {
       "name": "Men Item",
       "subs": [
         {
@@ -3544,6 +3506,6 @@
   ],
   "lockedCategories": {},
   "lockedSubcategories": {},
-  "lastUpdate": "2026-11-14T13:34:31.263Z",
+  "lastUpdate": "2026-11-14T13:35:04.584Z",
   "version": 6
 }
